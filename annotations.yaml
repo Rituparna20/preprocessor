@@ -1,0 +1,134 @@
+annotations:
+- bbox:
+  - 467
+  - 1064
+  - 873
+  - 2239
+  image: 1.png
+  label: potted plant
+- bbox:
+  - 190
+  - 532
+  - 457
+  - 1232
+  image: 12.jpg
+  label: person
+- bbox:
+  - 74
+  - 704
+  - 280
+  - 1277
+  image: 13.jpg
+  label: person
+- bbox:
+  - 74
+  - 704
+  - 280
+  - 1277
+  image: 13.jpg
+  label: car
+- bbox:
+  - 149
+  - 650
+  - 595
+  - 1339
+  image: 14.jpg
+  label: person
+- bbox:
+  - 237
+  - 548
+  - 466
+  - 1257
+  image: 15.jpg
+  label: surfboard
+- bbox:
+  - 156
+  - 825
+  - 474
+  - 1317
+  image: 16.jpg
+  label: person
+- bbox:
+  - 301
+  - 766
+  - 906
+  - 2674
+  image: 17.jpeg
+  label: person
+- bbox:
+  - 175
+  - 1104
+  - 896
+  - 2253
+  image: 18.PNG
+  label: person
+- bbox:
+  - 232
+  - 432
+  - 504
+  - 1169
+  image: 19.jpeg
+  label: person
+- bbox:
+  - 491
+  - 662
+  - 754
+  - 1596
+  image: 2.jpg
+  label: person
+- bbox:
+  - 236
+  - 503
+  - 469
+  - 1246
+  image: 20.jpeg
+  label: person
+- bbox:
+  - 192
+  - 478
+  - 523
+  - 1256
+  image: 21.jpeg
+  label: person
+- bbox:
+  - 76
+  - 401
+  - 555
+  - 1458
+  image: 22.jpeg
+  label: person
+- bbox:
+  - 120
+  - 444
+  - 607
+  - 1166
+  image: 23.jpeg
+  label: person
+- bbox:
+  - 419
+  - 913
+  - 846
+  - 2310
+  image: 3.png
+  label: person
+- bbox:
+  - 138
+  - 512
+  - 1186
+  - 2587
+  image: 4.png
+  label: person
+- bbox:
+  - 512
+  - 1122
+  - 1045
+  - 2309
+  image: 5.PNG
+  label: person
+- bbox:
+  - 277
+  - 72
+  - 624
+  - 1065
+  image: 6.jpg
+  label: person
